@@ -1,1 +1,1 @@
-from pypersiandate import *
+from .persiandate import *
