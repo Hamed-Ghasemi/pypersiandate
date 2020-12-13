@@ -2,6 +2,8 @@
 
 Python library for converting gregorian date to persian date.
 
+# Install
+`pip install pypersiandate`
 # Usage
 ```python
 res = topersia(2020,1,1)
