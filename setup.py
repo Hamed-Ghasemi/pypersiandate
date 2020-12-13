@@ -7,4 +7,6 @@ setup(
     author='Hamed Ghasemi',
     author_email='hamed.ghasemi.gl@gmail.com',
     url='https://github.com/Hamed-Ghasemi/pypersiandate',
+    license='MIT',
+    packages=['pypersiandate'],
 )
